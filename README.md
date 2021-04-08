@@ -16,6 +16,7 @@ Professional license:
 >[HKEY_CLASSES_ROOT\Licenses\74872840-703A-11d1-A3AF-00A0C90F26FA]
 >
 >@="mninuglgknogtgjnthmnggjgsmrmgniglish"
+>
 >[-HKEY_CLASSES_ROOT\Licenses\74872841-703A-11d1-A3AF-00A0C90F26FA]
 
 
