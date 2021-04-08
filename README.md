@@ -1,5 +1,5 @@
 # VB6Nano
-To make your version of VB6 portable, simply enter your license into the registry with a .reg file.
+To make your copy of VB6 portable, simply enter your license into the registry with a .reg file.
 
 Learning edition license:
 Windows Registry Editor Version 5.00
