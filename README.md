@@ -33,3 +33,17 @@ Windows Registry Editor Version 5.00
 
 @="klglsejeilmereglrfkleeheqkpkelgejgqf"
 
+Minimum files needed for portability:
+
+VB6.OLB
+VB6EXT.OLB
+DAO350.DLL
+MRT7ENU.DLL
+MSO97RT.DLL
+MSPDB60.DLL
+VB6IDE.DLL
+VBA6.DLL
+C2.EXE
+LINK.EXE
+VB6.EXE
+VBAEXE6.LIB
