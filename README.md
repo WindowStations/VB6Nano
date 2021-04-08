@@ -29,7 +29,7 @@ Enterprise license:
 >
 >[HKEY_CLASSES_ROOT\Licenses\74872841-703A-11d1-A3AF-00A0C90F26FA]
 >
-@="klglsejeilmereglrfkleeheqkpkelgejgqf"
+>@="klglsejeilmereglrfkleeheqkpkelgejgqf"
 
 Minimum files needed for portability:
 
