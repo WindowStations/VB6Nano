@@ -45,3 +45,8 @@ Minimum files needed for portability:
 >LINK.EXE
 >VB6.EXE
 >VBAEXE6.LIB
+>
+Files sourced from Office 97 developer edition:
+* ...Microsoft Office 97 Professional (ISO)\Microsoft Office 97 Professional\OFFICE97PRO\OFFICE\MRT7ENU.DLL
+* ...Microsoft Office 97 Professional (ISO)\Microsoft Office 97 Professional\OFFICE97PRO\OS\MSAPPS\DAO\DAO350.DLL
+* ...Microsoft Office 97 Developer Edition Tools (ISO)\Microsoft Office 97 Developer Edition Tools\Office 97 Developer Edition Tools\ODETOOLS\MSO97RT.DLL
