@@ -1,6 +1,9 @@
 # VB6Nano
-To make your own copy of VB6 portable, simply enter your license into the registry with a .reg file.  
-Run VB6.exe as administrator the first time.
+To make your own copy of VB6 portable:
+
+* Register msstdfmt.dll (link formatting) and msaddndr.dll (addin support) with regsvr32.
+* Enter your license into the registry with a .reg file.  
+* Run VB6.exe as administrator the first time.
 
 Learning edition license:
 >Windows Registry Editor Version 5.00
@@ -45,6 +48,8 @@ Minimum files needed for portability:
 >LINK.EXE
 >VB6.EXE
 >VBAEXE6.LIB
+>MSADDNDR.DLL
+>MSSTDFMT.DLL
 >
 Files sourced from Office 97 developer edition:
 * ...Microsoft Office 97 Professional (ISO)\Microsoft Office 97 Professional\OFFICE97PRO\OFFICE\MRT7ENU.DLL
