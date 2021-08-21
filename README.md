@@ -27,7 +27,7 @@ Windows Registry Editor Version 5.00
 
 Enterprise license:
 ```
->Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Licenses\74872840-703A-11d1-A3AF-00A0C90F26FA]
 
@@ -53,8 +53,8 @@ Minimum files needed for portability:
 >VBAEXE6.LIB
 >MSADDNDR.DLL
 >MSSTDFMT.DLL
->MSDIS110.dll
->CVPACK.exe
+>MSDIS110.DLL
+>CVPACK.EXE
 >
 >
 Files sourced from Office 97 developer edition:
